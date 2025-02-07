@@ -23,7 +23,7 @@ public class Employee {
 	@Column(name = "eid")
      private Integer empId;
 	
-	//latest
+	//latest updated
 	@Column(name = "ename" ,length=50)
      private String empName;
      
